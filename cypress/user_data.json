@@ -1,0 +1,21 @@
+{
+    "company": "Test Company",
+    "se_vat": "SE5566778899",
+    "eu_vat": "DK12345678",
+    "first_name": "Bob-test",
+    "last_name": "Daft-test",
+    "email": "billdafttest@exampel.com",
+    "password": "un1@keyL",
+    "address1": "Daftstreet-test",
+    "city": "City",
+    "postalcode": "12345",
+    "phone": "0744535353",
+    "email_misspelled": "bildafttest@exampel.com",
+    "password_mismatch": "uni@keyL",
+    "card_number": "5555 5555 5555 4444",
+    "card_brand": "Mastercard",
+    "card_cvc": "000",
+    "card_month": "03",
+    "card_year": "29"
+  }
+  
